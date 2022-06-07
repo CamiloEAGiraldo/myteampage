@@ -14,10 +14,10 @@
         top: 5%;
     }
     .name{
-        font-size: 22px;
+        font-size: 23px;
     }
     .prof{
-        font-size: 23px;
+        font-size: 22px;
         top: 35%;
     }
     #avatar5{
@@ -42,7 +42,7 @@
             font-size: 1.5rem;
         }
         footer p{
-            top: 70rem;
+            top: 170rem;
             margin-top: auto;
             font-size: 1.5rem;
         }
