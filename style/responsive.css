@@ -1,19 +1,4 @@
 @media(min-width: 768px){
-    #text{
-        width: 50%;
-    }
-    #avatares{
-        margin-top: 8%;
-    }
-    .name,
-    .prof{
-        font-size: 1.5rem;
-    }
-    .prof{
-        top: 36%;
-    }
-}
-@media(min-width: 1024px){
     #avatares{
         position: absolute;
         top: 10%;
@@ -29,10 +14,10 @@
         top: 5%;
     }
     .name{
-        font-size: 27px;
+        font-size: 22px;
     }
     .prof{
-        font-size: 27px;
+        font-size: 23px;
         top: 35%;
     }
     #avatar5{
@@ -49,7 +34,7 @@
         top: 60rem;
         left: 40%;
     }
-    @media(min-width: 1440px){
+    @media(min-width: 1240px){
         h1{
             font-size: 3rem;
         }
